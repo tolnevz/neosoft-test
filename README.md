@@ -1,4 +1,8 @@
-# .
+# neosoft-task-app
+
+SPA на Vue 3 с использованием Vuex и TypeScript, которое позволяет пользователю просматривать, добавлять, удалять и фильтровать список «Задач». Загрузка задач и операций с ними эмулируются через асинхронные функции (setTimeout + Promise).
+
+Demo - [https://neosoft-task-app.netlify.app/](https://neosoft-task-app.netlify.app/)
 
 This template should help get you started developing with Vue 3 in Vite.
 
